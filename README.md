@@ -1,3 +1,3 @@
-##Weather API
+ ## Weather API
 
 Simple API app to retrieve weather in manchester and display in browser
